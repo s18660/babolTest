@@ -3,7 +3,7 @@ public class Main{
 		int b = 10;
 		int a = 2;
 		int c = 20;
-		float delta = a*a - 4 * b * c;
+		float delta = b*b - 4 * a * c;
 		System.out.println("delta: " + delta);
 	}
 }
