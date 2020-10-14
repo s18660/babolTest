@@ -1,1 +1,4 @@
 # babolTest
+
+
+liczenie delty
